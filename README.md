@@ -11,9 +11,11 @@ I'm Oz and this GitHub is where I'm curating my devlogs and projects, from codin
 <!-- Insert your "Game of Life in Game of Life" GIF here -->
 ![Game of Life in Game of Life GIF](./assets/img/metapixel.gif)
 
-**Interests:** Human-Computer Interaction, metaprogramming, literate programming, simulations, algorithmic and generative art.
+**Interests:** Human-Computer Interaction, metaprogramming, post humanities, simulations, algorithmic and generative art
 
+<!--
 **👇 Check out my pinned repositories below! 👇**
 
-<!--[![Support me on GitHub Sponsors](https://img.shields.io/github/sponsors/RecursiveFaith?style=social)](YOUR_GITHUB_SPONSORS_LINK_HERE)
-[<img src="https://img.shields.io/twitter/follow/RecursiveFaith?style=social">](https://x.com/RecursiveFaith)-->
+[![Support me on GitHub Sponsors](https://img.shields.io/github/sponsors/RecursiveFaith?style=social)](YOUR_GITHUB_SPONSORS_LINK_HERE)
+[<img src="https://img.shields.io/twitter/follow/RecursiveFaith?style=social">](https://x.com/RecursiveFaith)
+-->
