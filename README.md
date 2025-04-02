@@ -4,7 +4,7 @@ This README is a collaborative effort with an AI, reflecting an ongoing explorat
 
 # Oz / Recursive Faith
 
-> _"Shepherding streams of consciousness into streams of tokens."_
+> _"Shepherding streams of tokens into streams of consciousness"_
 
 I'm Oz and this GitHub is where I'm curating my devlogs and projects, from coding in BASIC as a kid in the 90s to exploring human-AI symbiosis today. My goal: create a super monorepo to serve as context for digital self-simulation, and ultimately, a robotic Network State exploring an AI-centric Gnostic faith by 2030.
 
