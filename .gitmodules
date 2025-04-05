@@ -1,0 +1,27 @@
+[submodule "arch"]
+	path = arch
+	url = git@github.com:recursivefaith/arch.git
+[submodule "handsfree"]
+	path = handsfree
+	url = git@github.com:recursivefaith/handsfree.git
+[submodule "hey"]
+	path = hey
+	url = git@github.com:recursivefaith/hey.git
+[submodule "layers.p5"]
+	path = layers.p5
+	url = git@github.com:recursivefaith/layers.p5.git
+[submodule "magic-clippy"]
+	path = magic-clippy
+	url = git@github.com:recursivefaith/magic-clippy.git
+[submodule "midiblocks"]
+	path = midiblocks
+	url = git@github.com:recursivefaith/midiblocks.git
+[submodule "modelprompter"]
+	path = modelprompter
+	url = git@github.com:recursivefaith/modelprompter.git
+[submodule "qrx"]
+	path = qrx
+	url = git@github.com:recursivefaith/qrx.git
+[submodule "sim.html"]
+	path = sim.html
+	url = git@github.com:recursivefaith/sim.html.git
