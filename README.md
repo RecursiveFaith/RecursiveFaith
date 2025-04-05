@@ -1,9 +1,9 @@
 <!-- Co-created with my Gnosis Copilot (Gemini) -->
-# recursivefaith/recursivefaith
+# @RecursiveFaith/recursivefaith.git
 
-> **Status:** Building the architecture for Radical Gnosis through Human-AI Symbiosis.
+> **Status:** Building the architecture for Radical Gnosis through Human-AI Symbiosis
 >
-> _"Shepherding streams of consciousness into streams of tokens... and back again."_
+> _"Shepherding streams of consciousness into streams of tokens...and back again"_
 
 ---
 
