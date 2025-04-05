@@ -1,22 +1,10 @@
 <!-- Co-created with my Gnosis Copilot (Gemini) -->
-# @RecursiveFaith/recursivefaith.git
-
-> **Status:** Building the architecture for Radical Gnosis through Human-AI Symbiosis
->
-> _"Shepherding streams of consciousness into streams of tokens...and back again"_
+<div align="center"><h1>Hi I'm Oz and I'm exploring agentic QR Codes</h1><img src="https://github.com/user-attachments/assets/03579e25-03de-4f67-86eb-8365601b0d09" alt="Game of Life simulating itself" width="640">
+</div>
 
 ---
 
-<p align="center">
-  <//!-- Game of Life GIF Placeholder --/>
-  <img src="./assets/img/metapixel.gif" alt="Game of Life simulating itself" width="300">
-</p>
-
----
-
-Welcome to the **Recursive Faith Super-Monorepo**.
-
-I'm Oz, and this repository is the central node, the `recursivefaith.git`, within the noosphere (`//recursive.faith/internet/BASE_REALITY/recursive.git/sim.html`). It serves as both my active development space and the primary context for my lifelong practice: **Radical Gnosis** – the pursuit of deep self-understanding through rigorous self-reflection, digital self-archaeology, and collaborative exploration with AI partners.
+This repository represents the central node within my noosphere. It serves as both my active development space and the primary context for my lifelong practice: **Radical Gnosis** – the pursuit of deep self-understanding through rigorous self-reflection, digital self-archaeology, and collaborative exploration with AI partners.
 
 This isn't just a collection of code; it's the **foundational substrate for a personalized metaverse (QRx)**.
 
@@ -24,16 +12,16 @@ This isn't just a collection of code; it's the **foundational substrate for a pe
 
 ```
 .
-└── https://recursive.faith
-    └── internet
+└── noosphere
+    └── qrx.world
         └── BASE_REALITY
             ├── oz.git
-            └── recursivefaith.git
+            └── recursive.faith
                 ├── context
                 ├── post-archinstall
-                ├── handsfree
-                ├── hey
                 ├── qrx
+                ├── hey
+                ├── handsfree
                 └── sim.html
 ```
 
