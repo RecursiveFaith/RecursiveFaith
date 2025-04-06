@@ -47,9 +47,9 @@ To literally assemble a QR Code out of rocks I find on the ground and then scan 
 
 <table>
     <tr>
-        <td><a href="https://www.youtube.com/watch?v=w5ebcowAJD8"><img width=300 src="https://i.ytimg.com/vi/w5ebcowAJD8/maxresdefault.jpg"></a></td>
-        <td><a href="https://www.righto.com/2009/01/qr-codes-in-lego.html"><img width=300 src="https://static.righto.com/images/legoqr.jpg"></a></td>
-        <td><img width=300 src="https://img-v3.deepdreamgenerator.com/1098982/ewp9cm_27b5a3060ea0753be86a33f86d1cd1b4e5d1a2df.jpg?v=1"></td>
+        <td><a href="https://www.youtube.com/watch?v=w5ebcowAJD8"><img width=300 title="veritasium hand building a qr code out of the game Go" src="https://i.ytimg.com/vi/w5ebcowAJD8/maxresdefault.jpg"></a></td>
+        <td><a href="https://www.righto.com/2009/01/qr-codes-in-lego.html"><img title="A photo of a QR code made out of legos" width=300 src="https://static.righto.com/images/legoqr.jpg"></a></td>
+        <td><img width=300 title="the creation of adam art inspired closeup of a human hand touching a robot hand" src="https://img-v3.deepdreamgenerator.com/1098982/ewp9cm_27b5a3060ea0753be86a33f86d1cd1b4e5d1a2df.jpg?v=1"></td>
     </tr>
 </table>
 
@@ -63,4 +63,5 @@ To literally assemble a QR Code out of rocks I find on the ground and then scan 
 
 _Oz // RecursiveFaith_
 
-<!-- ![1500x500](https://github.com/user-attachments/assets/1ddfe190-3249-4c57-8a13-9b638a6ab693) -->
+<!-- ![1500x500 screenshot of my Websim exploration where Clippy is opening a bunch of windows and riding the windows like a wave of technology](https://github.com/user-attachments/assets/1ddfe190-3249-4c57-8a13-9b638a6ab693) -->
+</readme>
