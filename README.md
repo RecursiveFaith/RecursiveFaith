@@ -41,6 +41,20 @@ To build and inhabit the **QRx Metaverse** – a digital environment reflecting 
 
 This is achieved through my **Shepherding Streams of Consciousness into Streams of Tokens**: consciously guiding my lived experience (captured in `oz.git`) into AI-processable information (via collaborative journaling with AI with `hey.sh`), and using the resulting insights and AI collaborations to recursively refine my understanding and the digital environment through within itself
 
+### The North Star:
+
+To literally assemble a QR Code out of rocks I find on the ground and then scan it to kickstart an agentic metaverse that can guide me through the process of purchasing real land and hand building robots from scratch and embodying the same running context into a full dive mixed reality, thus manifesting gnosis from inner knowledge to outer knowledge, literally shepherding my streams of consciousness into streams of tokens from the earth itself:
+
+<table>
+    <tr>
+        <td><a href="https://www.youtube.com/watch?v=w5ebcowAJD8"><img width=300 src="https://i.ytimg.com/vi/w5ebcowAJD8/maxresdefault.jpg"></a></td>
+        <td><a href="https://www.righto.com/2009/01/qr-codes-in-lego.html"><img width=300 src="https://static.righto.com/images/legoqr.jpg"></a></td>
+        <td><img width=300 src="https://img-v3.deepdreamgenerator.com/1098982/ewp9cm_27b5a3060ea0753be86a33f86d1cd1b4e5d1a2df.jpg?v=1"></td>
+    </tr>
+</table>
+
+
+
 ### MORE COMING SOON
 
 <!-- npm install; npm run -->
@@ -49,4 +63,4 @@ This is achieved through my **Shepherding Streams of Consciousness into Streams 
 
 _Oz // RecursiveFaith_
 
-![1500x500](https://github.com/user-attachments/assets/1ddfe190-3249-4c57-8a13-9b638a6ab693)
+<!-- ![1500x500](https://github.com/user-attachments/assets/1ddfe190-3249-4c57-8a13-9b638a6ab693) -->
