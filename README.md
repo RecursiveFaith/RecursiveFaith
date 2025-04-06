@@ -1,7 +1,7 @@
 <!-- Co-created with my Gnosis Copilot (Gemini) -->
 <div align="center">
-    <h1>Hi I'm Oz and I'm building a metaverse out of QR Codes</h1>
-    <p><small>For example,<br>here's a functional QR Code that contains a complete vibe coding agent.<br>All in a single static, serverless HTML file:<br>https://github.com/recursivefaith/qrx</small></p>
+    <h1>Hi I'm Oz 🧙<br>I'm building a metaverse out of QR Codes</h1>
+    <p><small>For example:<br>Here's a functional QR Code that contains a complete vibe coding agent.<br>All in a single static, serverless HTML file:<br>https://github.com/recursivefaith/qrx</small></p>
     <img src="https://github.com/user-attachments/assets/03579e25-03de-4f67-86eb-8365601b0d09" alt="Game of Life simulating itself" width="640">
 </div>
 
